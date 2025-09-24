@@ -11,7 +11,7 @@
 
 ---
 
-## 🌟 About Me  
+##  About Me  
 
 I’m **Mohammed Minul Islam**, a passionate **Flutter Developer** and **CSE undergraduate** (IIUC, 2023–2026).  
 I love turning ideas into **elegant, user-friendly mobile apps**.  
@@ -57,9 +57,14 @@ To keep **learning, building, and contributing** to impactful projects that make
   <a href="https://www.linkedin.com/in/minul7638/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="left">
   <a href="mailto:minulislam7289@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-minulislam7289%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
+</p>
+<p align="left">
   <a href="https://github.com/mamun657" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
