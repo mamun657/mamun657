@@ -1,44 +1,50 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Mohammed Minul Islam</h1>
+<h1 align="center">I'm Mohammed Minul Islam</h1>
+<h2 align="center">🚀 Flutter App Developer!</h2>
+
+---
 
 <!-- Animated subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=🚀+Flutter+Developer;💻+Frontend+Enthusiast;🎓+CSE+Undergraduate+at+IIUC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=⚙️+Engineer;🎓+Student;🚀+Flutter+App+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🌟 About Me  
 
-<p align="left">
-  <font color="#FFD700"><b>I'm Mohammed Minul Islam</b></font>, a passionate  
-  <font color="#00FFCC"><b>Flutter Developer</b></font> and  
-  <font color="#FF8C00"><b>CSE undergraduate</b></font> (IIUC, 2023–2026).  
-  <br><br>
-  I love turning ideas into <font color="#ADFF2F"><b>elegant mobile apps</b></font>  
-  and thrive in hackathons where <font color="#87CEEB"><b>creativity</b></font> meets  
-  <font color="#FF69B4"><b>teamwork</b></font>.  
-  <br><br>
-  My mission: <font color="#00FFCC"><b>learn</b></font>,  
-  <font color="#FFD700"><b>build</b></font>, and  
-  <font color="#FF4500"><b>contribute to impactful projects</b></font>.  
+I’m **Mohammed Minul Islam**, a passionate **Flutter Developer** and **CSE undergraduate** (IIUC, 2023–2026).  
+I love turning ideas into **elegant, user-friendly mobile apps**.  
+
+✨ Beyond mobile development:  
+- I sharpen my skills through **competitive programming**, keeping my problem-solving sharp and coding efficient.  
+- I thrive where **creativity meets logic**, combining technical depth with adaptability and teamwork.  
+- I believe in **clear communication** and continuous growth.  
+
+🎯 **My Goal**  
+To keep **learning, building, and contributing** to impactful projects that make a real difference. 
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=FFA500&center=true&vCenter=true&width=1000&lines=💬+Don’t+compare+yourself+with+anyone+in+this+world.;If+you+do+so,+you+are+insulting+yourself.+—+Bill+Gates" alt="Bill Gates Quote" />
 </p>
+
 
 ---
 
 ## 🏆 Achievements & Activities  
 
-- 🛰️ <font color="#FFD700"><b>NASA Space Apps Challenge 2025</b></font> – Participant  
-- 📱 <font color="#00FFCC"><b>bdapps National Hackathon 2025</b></font> – Finalist  
-- 🏅 <font color="#FF8C00"><b>ICT Olympiad Bangladesh</b></font> – Finalist  
-- 💻 <font color="#87CEEB"><b>ICPC Preliminary Online Contest 2024</b></font> – Participant (Team at DIU)  
+- 🏅 **ICT Olympiad Bangladesh** – Finalist  
+- 💻 **ICPC Preliminary Online Contest 2024** – Participant (Team at DIU)  
+- 🚀 Participated in **many national & international hackathons**, gaining hands-on teamwork and problem-solving experience  
 
 ---
 
 ## 🎓 Education  
 
-- 🎓 <font color="#00FFCC"><b>B.Sc. in Computer Science & Engineering (2023 – 2026)</b></font>  
-  <font color="#FFD700">International Islamic University Chittagong (IIUC)</font>  
+- **B.Sc. in Computer Science & Engineering (2023 – 2026)**  
+  *International Islamic University Chittagong (IIUC)*  
 
 ---
 
@@ -46,32 +52,9 @@
 
 **📱 Mobile:** Flutter, Dart  
 **🎨 Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React.js, Bootstrap  
-**☁️ Backend / DB:** Firebase, Firestore  
-**⚙️ Tools:** Git, GitHub, REST APIs, Figma  
-
----
-
-## 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamun657&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamun657&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mamun657&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 🚀 Highlight Projects  
-
-- **SafeShake** – Women’s safety app with shake detection alerts *(Flutter + Kotlin)*  
-- **Gadget Shop** – Tailwind CSS responsive e-commerce site *(Tailwind + JS)*  
-- **Online Tech Shop** – Firebase-powered shop platform  
+**☁️ Backend / DB:** Firebase, Firestore, MongoDB  
+**⚙️ Programming Languages:** C, C++, Python  
+**🛠️ Tools:** Git, GitHub, REST APIs, Figma  
 
 ---
 
@@ -96,5 +79,3 @@
 ![GitHub Snake Dark](https://raw.githubusercontent.com/mamun657/mamun657/output/github-snake-dark.svg)  
 
 ---
-
-💬 *“Code is like humor. When you have to explain it, it’s bad.”*  
