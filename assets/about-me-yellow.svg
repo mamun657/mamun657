@@ -1,29 +1,18 @@
-<!-- File: assets/about-me.svg -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 160">
   <defs>
-    <!-- Soft glow to make the neon pop on dark GitHub theme -->
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2.5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
     <style>
       .line {
-        fill: #00FFCC; /* neon cyan */
+        fill: #FFD700; /* Golden Yellow */
         font-family: "Fira Code", Consolas, "Segoe UI", system-ui, -apple-system, sans-serif;
         font-size: 18px;
-        filter: url(#glow);
+        font-weight: 500;
       }
       .b { font-weight: 700; }
     </style>
   </defs>
 
-  <!-- transparent background so it works in light/dark themes -->
   <rect width="100%" height="100%" fill="transparent"/>
 
-  <!-- three lines of text -->
   <text class="line" x="0" y="36">
     I’m <tspan class="b">Mohammed Minul Islam</tspan>, a passionate <tspan class="b">Flutter Developer</tspan> and
     <tspan class="b">CSE undergraduate</tspan> (IIUC, 2023–2026).
