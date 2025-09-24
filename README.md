@@ -11,10 +11,10 @@
 
 ---
 
-##  About Me  
+## About Me  
 
-I’m **Mohammed Minul Islam**, a passionate **Flutter Developer** and **CSE undergraduate** (IIUC, 2023–2026).  
-I love turning ideas into **elegant, user-friendly mobile apps**.  
+I’m **Mohammed Minul Islam**, a passionate **Flutter Developer** and **CSE undergraduate at IIUC**.  
+I enjoy turning ideas into **elegant, user-friendly mobile apps**.  
 
 ✨ Beyond mobile development:  
 - I sharpen my skills through **competitive programming**, keeping my problem-solving sharp and coding efficient.  
@@ -77,7 +77,7 @@ To keep **learning, building, and contributing** to impactful projects that make
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=FFA500&center=true&vCenter=true&width=1000&lines=💬+Don’t+compare+yourself+with+anyone+in+this+world.;If+you+do+so,+you+are+insulting+yourself.+—+Bill+Gates" alt="Bill Gates Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=FFA500&center=true&vCenter=true&width=1000&lines=+Don’t+compare+yourself+with+anyone+in+this+world.;If+you+do+so,+you+are+insulting+yourself.+—+Bill+Gates" alt="Bill Gates Quote" />
 </p>
 
 ---
