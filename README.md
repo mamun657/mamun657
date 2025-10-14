@@ -36,7 +36,7 @@ To keep **learning, building, and contributing** to impactful projects that make
 
 ## 🎓 Education  
 
-- **B.Sc. in Computer Science & Engineering (2023 – 2026)**  
+- **BSc. in Computer Science & Engineering (2023 – 2026)**  
   *International Islamic University Chittagong (IIUC)*  
 
 ---
