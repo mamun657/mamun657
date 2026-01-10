@@ -35,9 +35,9 @@ To continuously **learn, build, and contribute** to impactful technology solutio
 - Selected for the **Grameenphone FutureMakers AI Business Idea Competition 2025**.  
 - Represented **Team VibeX** and **International Islamic University Chittagong (IIUC)** by pitching **“KrishiKontho”**, an **AI + IoT based voice solution for farmers**.  
 - Presented at **GP House, Bashundhara**, gaining hands-on experience interacting with **industry professionals** in AI-driven business innovation, teamwork, and startup pitching.
----
 
-### 🚀 AI-powered Agriculture App Developer — *MillionX Bangladesh*
+
+### 🚀 AI-powered Agriculture App Developer —> *MillionX Bangladesh*
 **National AI Build-a-thon 2026 (Final Round Selection)**
 
 - Developed a **fully functional agriculture-focused mobile application** as part of the **MillionX National AI Build-a-thon 2026**.
@@ -48,7 +48,6 @@ To continuously **learn, build, and contribute** to impactful technology solutio
 🎥 **Project Demo (YouTube):**  
 👉 https://www.youtube.com/watch?v=koPIxBlAy-E
 
----
 
 ---
 
