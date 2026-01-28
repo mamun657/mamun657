@@ -14,11 +14,10 @@
 
 
 <p align="left">
-<a href="https://minul-islam.onrender.com/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-minul--islam.onrender.com-00FFCC?style=for-the-badge&logo=google-chrome&logoColor=black" />
-</a>
+  <a href="https://minul-islam.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-minul--islam.onrender.com-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" />
+  </a>
 </p>
-
 
 📌 Explore my **projects, skills, live demos, and contact information** in one place.
 
