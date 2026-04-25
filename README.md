@@ -58,7 +58,7 @@ To continuously **learn, build, and contribute** to impactful technology solutio
 - Published a **full project demo on YouTube**, showcasing complete app features and workflow.
 
 🎥 **Project Demo (YouTube):**  
-👉 [(https://www.youtube.com/watch?v=f0lVa-c8N34)]
+👉 https://www.youtube.com/watch?v=f0lVa-c8N34
 
 
 ---
