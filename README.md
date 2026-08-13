@@ -6,17 +6,11 @@
 💻 Software Developer | 🎓 CSE Undergraduate
 </h3>
 
-<p align="center">
-  <a href="https://minul-islam.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" />
-  </a>
-  <a href="https://www.linkedin.com/in/minul7638/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/mamun657" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+## 🌐 Portfolio Website
+
+🌐 https://minul-islam.onrender.com/
+
+📌 Explore my projects, skills, live demos, and contact information in one place.
 
 ---
 
@@ -46,89 +40,7 @@ I'm **Mohammed Minul Islam (Mamun)**, a **Software Developer** and CSE undergrad
 - 🧠 Practice competitive programming and problem solving
 - 🤝 Participate in hackathons and technology competitions
 
-I'm continuously learning, building, and looking for opportunities to **learn, contribute, and grow as a software engineer**.
-
----
-
-# 🚀 Featured Projects
-
-## 🩺 DengueShield AI
-
-### Smart Healthcare Platform
-
-**Tech Stack:**  
-`React.js` `Node.js` `Python` `TensorFlow` `CNN` `RAG` `MongoDB`
-
-An AI-powered dengue monitoring platform designed to provide early healthcare support through intelligent risk assessment and clinical assistance.
-
-### Key Features
-
-- 🤖 AI-based dengue risk assessment
-- 🩺 Smart Doctor assistance
-- 🧠 Clinical intelligence
-- 🔬 CNN-based rash analysis
-- 📊 Grad-CAM explainability
-- 💡 AI-powered healthcare insights
-
-🏆 **Infinity AI BuildFest 2026 — Finalist**
-
----
-
-## 🌾 KrishokDhoni
-
-### Intelligent Farming Assistant
-
-**Tech Stack:**  
-`Flutter` `Dart` `FastAPI` `Python` `SQLite` `TensorFlow Lite`
-
-An intelligent farming assistant designed to help farmers make better agricultural decisions using AI-powered features.
-
-### Key Features
-
-- 🌱 Crop disease detection
-- 🌾 Smart crop recommendations
-- 💰 Market price information
-- 🌦️ Weather updates
-- 🎙️ Bangla & English voice assistance
-- 🤖 AI-powered farming support
-
-🏆 **MillionX Bangladesh National AI Build-a-thon 2026**  
-**Finalist — Top 50 out of 310+ teams**
-
----
-
-## 💼 NextCareer
-
-### AI-Powered Career Companion
-
-**Tech Stack:**  
-`React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `JWT`
-
-A full-stack career guidance platform designed to help users understand their skills, identify career opportunities, and plan their professional growth.
-
-### Key Features
-
-- 🎯 Intelligent job matching
-- 📊 Skill gap analysis
-- 🗺️ Personalized career roadmaps
-- 📄 CV skill extraction
-- 🤖 CareerBot
-- 🔐 JWT-based authentication
-
----
-
-## 🐟 AquaRevo
-
-### Smart Aquaculture Solution
-
-**Tech Stack:**  
-`IoT Sensors` `AI/ML` `Mobile Application`
-
-An IoT and AI-powered aquaculture solution focused on improving sustainable fish farming through smart monitoring and automation.
-
-🏆 **Hult Prize OnCampus 2025–26**  
-**Grand Finalist - Top 5 Team**
-
+I'm continuously learning, building, and looking for opportunities to **learn, contribute, and grow as a software engineer**
 ---
 
 # 🏆 Achievements & Competitions
@@ -139,8 +51,7 @@ An IoT and AI-powered aquaculture solution focused on improving sustainable fish
 
 Developed and presented **KrishiKontho**, an intelligent voice-enabled agritech solution.
 
-📍 Presented at **P House, Bashundhara**
-G
+📍 Presented at **GP House, Bashundhara**
 ---
 
 ### 🤖 Infinity AI BuildFest 2026 - BRAC University
@@ -167,7 +78,7 @@ Developed **AquaRevo**, a climate-smart circular aquaculture solution.
 
 ---
 
-### 🧠 ICT Olympiad Bangladesh — Season 2
+### 🧠 ICT Olympiad Bangladesh - Season 2
 
 **Gala Round Qualified - Top 30 out of 800+ participants**
 
@@ -186,7 +97,7 @@ Represented **International Islamic University Chittagong (IIUC)**.
 
 ---
 
-### 🚀 NextGen Hackathon 2025 — IIUC Tech Fest
+### 🚀 NextGen Hackathon 2025 - IIUC Tech Fest
 
 **Finalist**
 
