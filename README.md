@@ -6,12 +6,6 @@
 💻 Software Developer | 🎓 CSE Undergraduate
 </h3>
 
-## 🌐 Portfolio Website
-
-🌐 https://minul-islam.onrender.com/
-
-📌 Explore my projects, skills, live demos, and contact information in one place.
-
 ---
 
 <!-- ================= TYPING SVG ================= -->
