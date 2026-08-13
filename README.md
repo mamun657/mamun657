@@ -1,6 +1,6 @@
 <!-- ================= PROFILE HEADER ================= -->
 
-<h1 align="center"> I'm Mohammed Minul Islam (Mamun) 👋</h1>
+<h1 align="center"> I'm Mohammed Minul Islam</h1>
 
 <h3 align="center">
 💻 Software Developer | 🎓 CSE Undergraduate
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Mohammed Minul Islam (Mamun)**, a **Software Developer** and CSE undergraduate at **International Islamic University Chittagong (IIUC)**. I enjoy turning ideas into practical applications and solving real-world problems through technology.
+I'm **Mohammed Minul Islam**, a **Software Developer** and CSE undergraduate at **International Islamic University Chittagong (IIUC)**. I enjoy turning ideas into practical applications and solving real-world problems through technology.
 
 
 ### 🚀 What I Do
