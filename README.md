@@ -33,6 +33,7 @@ I'm **Mohammed Minul Islam**, a **Software Developer** and CSE undergraduate at 
 Developed and presented **KrishiKontho**, an intelligent voice-enabled agritech solution.
 
 📍 Presented at **GP House, Bashundhara**
+
 ---
 
 ### 🤖 Infinity AI BuildFest 2026 - BRAC University
