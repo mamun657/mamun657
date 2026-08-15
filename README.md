@@ -21,20 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Mohammed Minul Islam**, a **Software Developer** and CSE undergraduate at **International Islamic University Chittagong (IIUC)**. I enjoy turning ideas into practical applications and solving real-world problems through technology.
-
-
-### 🚀 What I Do
-
-- 💻 Build full-stack web applications
-- 📱 Develop Flutter mobile applications
-- 🤖 Explore Artificial Intelligence & Machine Learning
-- ⚙️ Develop REST APIs and backend systems
-- 🗄️ Work with databases and authentication systems
-- 🧠 Practice competitive programming and problem solving
-- 🤝 Participate in hackathons and technology competitions
-
-I'm continuously learning, building, and looking for opportunities to **learn, contribute, and grow as a software engineer**
+I'm **Mohammed Minul Islam**, a **Software Developer** and CSE undergraduate at **International Islamic University Chittagong (IIUC)**. I enjoy turning ideas into practical applications and solving real-world problems through technology. I'm continuously learning, building, and looking for opportunities to **learn, contribute, and grow as a software engineer**
 ---
 
 # 🏆 Achievements & Competitions
