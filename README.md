@@ -8,17 +8,6 @@
 
 ---
 
-<!-- ================= TYPING SVG ================= -->
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&lines=Software+Developer;Full-Stack+Web+Developer;Flutter+App+Developer;AI+%26+ML+Enthusiast;Building+Real-World+Technology+Solutions"
-    alt="Typing SVG"
-  />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 I'm **Mohammed Minul Islam**, a **Software Developer** and CSE undergraduate at **International Islamic University Chittagong (IIUC)**. I enjoy turning ideas into practical applications and solving real-world problems through technology. I'm continuously learning, building, and looking for opportunities to **learn, contribute, and grow as a software engineer**
