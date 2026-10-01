@@ -85,24 +85,3 @@ Represented **International Islamic University Chittagong (IIUC)**.
 
 Participated in a national-level **24-hour hackathon** focused on innovation, teamwork, rapid development, and problem solving.
 
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-`C` `C++` `C#` `Python` `Dart` `JavaScript` `TypeScript`
-
-### 📱 Mobile Development
-`Flutter` `Firebase` `SQLite`
-
-### 🌐 Frontend Development
-`HTML` `CSS` `Tailwind CSS` `React.js` `Bootstrap`
-
-### ⚙️ Backend & Database
-`C#` `ASP.NET Core` `Node.js` `Express.js` `FastAPI` `Flask` `REST API` `MongoDB` `Firestore` `SQL`
-
-### 🤖 AI & Machine Learning
-`Machine Learning` `TensorFlow` `CNN` `XGBoost` `RAG`
-
-### 🛠️ Tools & Platforms
-`Git` `GitHub` `Docker` `Figma`
